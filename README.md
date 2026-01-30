@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jorge Fumagalli
 
-🎯 **Data & Machine Learning | Fraud & Risk Modeling | Fintech**  
+🎯 **Data Scientist & Machine Learning | Fraud & Risk Modeling | Fintech**  
 📍 Brazil | 🌎 Open to remote opportunities
 
 I work with **data-driven decision making** and **machine learning applied to real business problems**, with a strong focus on **fraud detection, risk modeling, and analytics for fintech and financial services**.
